@@ -1,5 +1,6 @@
 
 Intelligent Chatbot
+
 This repository contains the Intelligent Chatbot project, designed to provide a responsive, adaptable, and intelligent user interaction experience. The chatbot is developed as part of a team effort, following a structured progression of levels to implement various advanced features.
 
 Project Overview
